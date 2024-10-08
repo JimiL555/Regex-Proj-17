@@ -1,4 +1,3 @@
-
 # Matching an Email Address Using Regex
 
 In this tutorial, we will explore how a regular expression (regex) is used to match and validate email addresses. A regex is a sequence of characters that defines a search pattern, often used for string validation, searching, or string replacement. The regex for email validation helps ensure that the input follows the correct format for a typical email address, including a username, domain, and domain extension.
